@@ -8,8 +8,12 @@ From Objects perspective
 - filter
 - find
 - map
-- reduce
+- reduce ( We will learn this in detail in FUTURE )
 
+- Access value from object
+- set value to an object
+- access value from array
+- set value to an array
 - localstorage/session storage
 - Optional chaining
 - logical &&
